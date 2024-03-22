@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20004" appversion="7.0.6" start="node115">
+  <panorama id="node115" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node115/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.1903" fov="100" projection="4" pan="-0.486709"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="330" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.246750" longitude="-75.569083" info="" heading="0" altitude="1565.70" title="IMG_20230523_120447_00_184.insp" author="" comment="" customnodeid="" source="" tags="E01_Intro" description="" copyright="" datetime="23/05/2023 12:04 p. m." nodeid="node115"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <hotspot id="ID_Nodo_Puerta" tilt="-6.82" url="{node20}" skinid="ht_nodeLogoMetro" title="" pan="-361.64" distance="9235.87" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="22.680" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-325.980" tiltsize="10.000" mode="2">
+        <source url="media/AUD1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.40000000000000002" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.851006" fov="106.335" projection="4" pan="7.04062"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="330" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="INTERACTÚA CON LOS ELEMENTOS EN PANTALLA" author="" comment="" customnodeid="" source="" tags="E02_Puerta_Tutorial" description="Puedes interactuar con los elementos que parpadean.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;Apuntales con el Mouse a los elementos interactivos para conocer más información sobre ellos y haz clic para interactuar con ellos.&#xa;&#xa;" copyright="" datetime="28/04/2023 10:30 a. m." nodeid="node20"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_Puerta" url="{node21}" bordercolor="0x0000ff" backgroundalpha="0.392157" borderalpha="0" title="Entrada Enclavamiento" backgroundcolor="0xffffff" description="Los enclavamientos se encuentran ubicados en cada una de las estaciones, permitiendo regular la operación ferroviaria de un tramo de la vía en específico." target="">
+        <polystring>-342.04/-27.94|-341.07/17.44|-7.35/17.82|-7.59/-27.61</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="23.830" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-353.290" tiltsize="10.000" mode="2">
+        <source url="media/AUD2.mp3"/>
+      </sound>
+      <sound id="_background" tilt="-1.000" field="90.000" ambientlevel="0.000" loop="1" level="0.900" nodechangekeep="1" startmutedmobile="0" pansize="10.000" pan="-1.000" tiltsize="10.000" mode="0">
+        <source url="media/Fondo Estaci�n.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.29999999999999999" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.80221" fov="70.2708" projection="4" pan="-1.52276"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="ACCESO A ENCLAVAMIENTO" author="" comment="" customnodeid="" source="" tags="E03_TarjetaAcceso" description="El acceso a este tipo de cuartos técnicos está regulado debido a la importancia e influencia de estos sistemas directamente en la seguridad de la operación ferroviaria.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;Para continuar HAZ CLIC en el lector de tarjeta como se ilustra en la imagen.&#xa;&#xa;&#xa;Recuerda siempre portar tu carnet!" copyright="" datetime="28/04/2023 10:34 a. m." nodeid="node21"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_TarjetaAcceso" url="{node22}" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Acceso" backgroundcolor="0xffffff" description="" target="$fwd">
+        <polystring>-338.36/-9.09|-337.02/-9.31|-335.47/-9.09|-335.04/-8.75|-335.03/-4.73|-335.12/-4.52|-335.25/-4.43|-335.78/-4.43|-336.01/-4.25|-338.23/-4.34|-338.37/-4.38|-338.4/-4.62</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="41.010" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-2.730" tiltsize="10.000" mode="2">
+        <source url="media/AUD3.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.29999999999999999" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="-2.5"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="INGRESO ENCLAVAMIENTO ANTIGÜO" author="" comment="" customnodeid="" source="" tags="E04_IngresoEnclavamiento" description="Estás a punto de ingresar a uno de los enclavamientos antigüos que aún quedan en el Sistema del Metro de Medellín. Este corresponde al Enclavamiento de la Estación de San Antonio B!&#xa;&#xa;&#xa;A lo largo del recorrido en ocaciones encontrarás estos simbolos distruídos por el suelo, con ellos puedes desplazarte y moverte hacia diversos puntos.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;HAZ CLIC en estos puntos para dirigirte hasta el lugar en donde se encuentran!" copyright="" datetime="28/04/2023 10:34 a. m." nodeid="node22"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <hotspot id="Point01" tilt="-31.64" url="{node25}" skinid="ht_PuntoBasic" description="" title="Entrar al Enclavamiento Antigüo" target="$fwd" pan="-3.43"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="15.820" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-359.480" tiltsize="10.000" mode="2">
+        <source url="media/AUD Aux1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="6"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="BUSCA COMO ENCENDER LAS LÁMPARAS DEL LUGAR" author="" comment="" customnodeid="" source="" tags="E05_EncenderLuz" description="Ya ingresamos al Enclavamiento! Pero las luces están apagadas. Busca a tu alrededor el interruptor para encender las lámparas del lugar.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;Recuerda que tienes VISIÓN DE 360°, usala para ver todo a tu alrededor. Para mover la vista DESPLAZA LA VISTA CON CLIC SOSTENIDO." copyright="" datetime="28/04/2023 10:36 a. m." nodeid="node25"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <hotspot id="Point02" tilt="-41.63" url="{node22}" skinid="ht_PuntoBasic" description="" title="Regresar" target="" pan="-177.46"/>
+      <polyhotspot id="Poly_Luz" url="{node24}" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Encender Lámparas" backgroundcolor="0xffaa00" description="" target="$fwd">
+        <polystring>-226.5/-2.98|-228.74/-2.5|-228.72/-8.01|-226.56/-8.77|-226.54/-7.03</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="39.560" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-352.630" tiltsize="10.000" mode="2">
+        <source url="media/AUD4.mp3"/>
+      </sound>
+      <sound id="_background" tilt="-1.000" field="90.000" ambientlevel="0.000" loop="0" level="1.000" nodechangekeep="1" startmutedmobile="0" pansize="10.000" pan="-1.000" tiltsize="10.000" mode="0">
+        <source url="media/Fondo Enclavamiento.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="Encender la Luz" author="" comment="" customnodeid="" source="" tags="E06_LuzEncendida" description="" copyright="" datetime="28/04/2023 10:37 a. m." nodeid="node24"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <hotspot id="Point01" tilt="-34.45" url="{node26}" skinid="ht_PuntoBasic" description="" title="Vista General Enclavamiento" target="" pan="-70.29"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="36.160" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-359.770" tiltsize="10.000" mode="2">
+        <source url="media/AUD5.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.5" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.66" fov="80" projection="4" pan="-0.63"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="Vista General Enclavamiento" author="" comment="" customnodeid="" source="" tags="E07_VistaGeneralEnclavamiento" description="" copyright="" datetime="28/04/2023 10:52 a. m." nodeid="node26"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_FTGS" url="{node102}" bordercolor="0xff910b" backgroundalpha="0.25098" borderalpha="0" title="SISTEMA FTGS" backgroundcolor="0xffffff" description="El Sistema FTGS es el dispositivo que se encarga de verificar la ocupación de la vías por un tren, preservando la integridad del servicio, controlando y manteniendo las distancias seguras entre los vehículos." target="">
+        <polystring>-309.91/12.98|-334.63/18.46|-335.25/-18.6|-322.32/-16.61|-322.29/-18.47|-318.95/-20.01|-310.45/-17.31|-310.09/-10.02|-309.74/12.69</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MIS801" url="{node101}" bordercolor="0x65ffe6" backgroundalpha="0.25098" borderalpha="0" title="SISTEMA MIS 801" backgroundcolor="0xffffff" description="El Sistema MIS 801 se encuentra úbicado en el enclavamiento y es el corazón del sistema de señalización.&#xa;&#xa;Este dispositivo recibe y procesa múltiples señales provenientes de sensores estratégicamente ubicados a lo largo de la vía, procesandolas de manera lógica para preservar la seguridad de la operación.&#xa;&#xa;El enclavamiento se comunica paralelamente con otros sistemas como el ATP, FTGS, entre otros, con lo cual, calcula, coordina y opera los elementos de campo de la vía. " target="">
+        <polystring>-344.75/22.24|-40.69/18.91|-40.77/-15.34|-24/-18.35|-22.6/-17.42|-22.65/-26.62|-18.24/-27.61|-359.42/-28.32|-359.32/-23.46|-338.23/-21.96|-337.54/21.15</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_TableroMonitoreo" url="" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="TABLERO DE MONITOREO" backgroundcolor="0xffffff" description="Tablero de Monitoreo asociado a los componentes que controla este enclavamiento. &#xa;&#xa;Se caracteriza por emplear un sistema análogo para brindar seguimiento a las ocupaciones de vía, aspectos de señales y estados de cambiavías.&#xa;&#xa;&#xa;&#xa;&#xa;Así, representado a través de una serie de leds, brinda una estructura gráfica con la cual se puede identificar la ubicación de un tren en el tramo de control del enclavamiento." target="_blank">
+        <polystring>-165.26/13.28|-164.99/-1.07|-209.8/-1.31|-210.02/11.53|-194.29/13.05</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="26.320" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-346.180" tiltsize="10.000" mode="2">
+        <source url="media/AUD6.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node102" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node102/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.30809" fov="100" projection="4" pan="16.1923"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="SISTEMA FTGS" author="" comment="" customnodeid="" source="" tags="E08_FTGSGeneral" description="Corresponde al sistema de control encargado principalmente de verificar la ocupación de un tramo de la vía por parte de un tren. &#xa;&#xa;Este sistema está conectado a los circuitos de vía que dividen la ruta que transita el tren en diferentes secciones y opera mediante un sistema de radiofrecuencias que circula un voltaje a una frecuencia específica para cada circuito de vía, posicionando en un extremo del circuito un elemento “emisor” y en el extremo posterior un elemento “receptor” conectados a través del riel por el cual circula el voltaje, cerrando y dando continuidad al circuito eléctrico. En el momento en que un tren ocupa la vía, debido al material metálico de las ruedas, se crea un corto circuito que modifica la frecuencia y voltaje que circula a través de la vía, haciendo que el elemento receptor perciba una información distinta frente a la enviada por el emisor, generando así una señal que indica la ocupación en la vía Sensada en todo momento por este equipo.  " copyright="" datetime="28/04/2023 11:21 a. m." nodeid="node102"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_MóduloFTGS_V35" url="{node103}" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Módulo FTGS VÍA 35" backgroundcolor="0xffff7f" description="" target="">
+        <polystring>-335.38/-13.28|-335.58/-25.76|-22.32/-26.31|-22.27/-13.59</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_V29" url="{node103}" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="Módulo FTGS VÍA 29" backgroundcolor="0xffffff" description="" target="">
+        <polystring>-334.6/29.9|-22.29/31.59|-22.32/19.9|-334.94/18.41</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_V31" url="{node103}" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="Módulo FTGS VÍA 31" backgroundcolor="0xffffff" description="" target="">
+        <polystring>-335.08/17.04|-22.27/18.28|-22.19/4.43|-335.37/3.79</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_V33" url="{node103}" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Módulo FTGS VÍA 33" backgroundcolor="0xffffff" description="" target="">
+        <polystring>-335.34/1.92|-22.19/2.35|-22.23/-11.75|-335.38/-11.48</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_V02" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Módulo FTGS VÍA 02" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-335.86/-26.87|-22.27/-27.44|-22.44/-37.71|-336.41/-36.73</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_V41" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-335.77/-39.96|-22.29/-41.29|-22.65/-47.13|-336.61/-45.81</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="41.840" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-326.530" tiltsize="10.000" mode="2">
+        <source url="media/AUD7.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node103" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node103/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.59999999999999998" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="85.4589" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="Módulo FTGS" author="" comment="" customnodeid="" source="" tags="E09_FTGSMdulo" description="Este sistema opera mediente sistemas electrónicos compuestos por módulos organizados en grupos, donde cada uno de estos grupos verifican la ocupación de una vía en partícular y cada módulo del grupo tiene funciones específicas.&#xa;&#xa;Entre las cuales se encuentra:&#xa;&#xa;- Recepción&#xa;- Modulación&#xa;- Demodulación&#xa;- Conmutación&#xa;- Emisión&#xa;&#xa;Señala cada uno de los componentes para identificarlos.&#xa;&#xa;" copyright="" datetime="28/04/2023 11:23 a. m." nodeid="node103"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_MóduloFTGS_AMP" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="AMPLIFICADOR" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-310.75/8.39|-323.95/10.29|-323.87/6.95|-325.06/6.76|-325.07/-10.32|-324.37/-10.44|-323.54/-10.39|-323.55/-13.15|-323.58/-13.34|-324.25/-13.45|-324.4/-13.39|-324.6/-12.94|-324.83/-12.77|-325.11/-12.69|-325.17/-15|-311.98/-12.25|-311.91/-10.27|-311.22/-10.25|-310.88/-10.8|-310.28/-10.72|-310.29/-8.22|-310.5/-8.16|-310.79/-8.18|-311.01/-8.33|-311.47/-8.37|-312.05/-8.23|-312.07/-7.78|-311.87/5.61|-310.6/5.52|-310.59/6.11|-311.34/6.19|-311.21/8.06</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_EMI" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="EMISOR" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-324.1/10.32|-324.01/7.06|-325.16/6.85|-325.11/-10.34|-324.54/-10.44|-324.24/-10.43|-323.62/-10.4|-323.59/-13.3|-324.27/-13.44|-324.57/-12.92|-324.88/-12.73|-325.12/-12.66|-325.29/-12.73|-325.44/-15.06|-330.86/-15.98|-330.86/-13.39|-330.5/-13.43|-330.3/-13.73|-330.18/-14.12|-329.99/-14.18|-329.23/-14.17|-329.23/-11|-329.4/-10.82|-330.03/-10.88|-330.18/-10.97|-330.82/-10.67|-330.59/7.53|-329.68/7.5|-329.84/10.98</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_RCP1" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="RECEPTOR 1" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-329.93/11.03|-332.09/11.19|-336.1/11.58|-335.99/8.31|-336.93/7.87|-337.09/-11.43|-336.78/-11.62|-336.21/-11.61|-336.03/-11.73|-336.07/-15.11|-337.03/-15.18|-337.06/-16.83|-331.01/-15.96|-331/-13.38|-330.47/-13.44|-330.23/-14.09|-330.01/-14.15|-329.26/-14.09|-329.2/-11|-329.43/-10.8|-330.06/-10.88|-330.21/-10.97|-330.98/-10.62|-330.64/7.57|-329.76/7.55</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_DEM" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="DEMODULADOR" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-336.2/11.59|-336.12/8.34|-337.02/7.9|-337.2/-11.2|-337.19/-11.38|-336.75/-11.62|-336.15/-11.61|-336/-11.76|-336.09/-15.11|-336.96/-15.14|-337.16/-15.1|-337.18/-16.86|-344.13/-17.46|-344.18/-15.86|-343.42/-15.79|-343.41/-12.28|-343.55/-12.11|-343.91/-12.14|-344.14/-11.92|-344.05/7.93|-343.26/8.23|-343.33/12.07</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_RCP2" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="RECEPTOR 2" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-343.46/12.12|-343.31/8.35|-344.22/7.97|-344.34/-11.61|-343.92/-12.15|-343.45/-12.23|-343.44/-15.77|-344.24/-15.83|-344.24/-17.5|-351.61/-17.91|-351.6/-16.11|-351.1/-16.07|-351.08/-12.34|-351.36/-12.21|-351.62/-12.05|-351.62/-11.83|-351.54/8.06|-351.16/8.74|-351.22/12.47</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_RELÉ" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="MÓDULO RELÉ" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-351.3/12.53|-351.25/8.76|-351.67/8.06|-351.89/-11.87|-351.24/-12.27|-351.14/-12.41|-351.13/-16.04|-351.65/-16.09|-351.91/-16.08|-351.91/-17.91|-6.92/-17.97|-7.24/12.5</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_MóduloFTGS_CONM" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="COMNUTACIÓN" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-22.75/11.77|-29.5/11.23|-29.68/7.63|-28.84/7.71|-28.55/-16.2|-22.13/-17.06|-22.35/7.65|-22.76/7.71</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly08" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="RECEPTOR 1" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-7.38/12.52|-15.15/12.24|-15.26/8.01|-14.86/8.02|-14.86/-17.54|-7.27/-18.03</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="24.220" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-34.830" tiltsize="10.000" mode="2">
+        <source url="media/AUD8.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node116" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node116/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.5" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.66" fov="80" projection="4" pan="-0.63"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="Vista General 2" author="" comment="" customnodeid="" source="" tags="" description="" copyright="" datetime="28/04/2023 10:52 a. m." nodeid="node116"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_MIS801" url="{node101}" bordercolor="0x65ffe6" backgroundalpha="0.25098" borderalpha="0" title="SISTEMA MIS 801" backgroundcolor="0xffffff" description="El Sistema MIS 801 se encuentra ubicado en el enclavamiento y es el corazón del sistema de señalización.&#xa;&#xa;Este dispositivo recibe y procesa múltiples señales provenientes de sensores estratégicamente ubicados a lo largo de la vía, procesándolas de manera lógica para preservar la seguridad de la operación.&#xa;&#xa;El enclavamiento se comunica paralelamente con otros sistemas como el ATP, FTGS, entre otros, con lo cual, calcula, coordina y opera los elementos de campo de la vía." target="">
+        <polystring>-337.48/21.07|-337.96/21.34|-358.53/23.26|-358.93/23.05|-359.28/22.1|-359.28/20.39|-0.03/20.39|-0.03/22.2|-0.32/22.52|-0.5/23.2|-0.91/23.3|-1.09/23.51|-22.22/22.17|-22.53/21.83|-22.56/20.68|-23.93/21.91|-40.63/18.81|-40.99/-15.39|-23.94/-18.64|-22.79/-18.17|-22.85/-26.56|-359.64/-28.16|-359.51/-23.41|-338.13/-22.04</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_FTGSV2" url="" bordercolor="0xffff00" backgroundalpha="0.0392157" borderalpha="0" title="SISTEMA FTGS" backgroundcolor="0xffffff" description="El Sistema FTGS es el dispositivo que se encarga de verificar la ocupación de la vías por un tren, preservando la integridad del servicio, controlando y manteniendo las distancias seguras entre los vehículos." target="_blank">
+        <polystring>-321.81/-16.74|-334.88/-19.01|-337.85/-16.97|-336.99/16.88|-334.67/18.47|-322.02/16.32|-321.99/15.08|-320.97/14.94|-320.96/14.36|-318.39/15.18|-309.8/12.95|-310.35/-17.32|-319.45/-19.92|-321.77/-18.64</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_TableroMonitoreo" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Tablero de Monitorep" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-165.06/13.11|-164.94/-1.1|-209.89/-1.27|-209.73/11.91</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node101" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node101/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.5" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="120" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="MIS 801" author="" comment="" customnodeid="" source="" tags="E11_MIS801_General" description="Este es el sistema MIS 801, el cual consiste en un sistema que monitorea, regula y opera los demás elementos de campo que observamos en la vía, es decir, las señales y cambiavías.&#xa;&#xa;Esto lo hace mediante un sistema puramente electromecánico compuesto por relés, los cuales cambian su posición en función del estado de los elementos de campo.&#xa;&#xa;Los relés se organizan por grupos con un objetivo en particular. En esta vista, podemos observar 2 tipos de Grupos de Relés." copyright="" datetime="28/04/2023 10:53 a. m." nodeid="node101"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_MIS801_Relé" url="{node29}" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="Ver Grupo de Relés" backgroundcolor="0xffff7f" description="" target="">
+        <polystring>-326.33/-43.6|-326.17/-36.01|-326.53/-35.69|-326.5/-34.41|-330.87/-35.64|-331.47/-34.74|-32.4/-33.64|-32.47/-33.79|-33.06/-34.5|-36.87/-33.26|-36.85/-34.35|-37.43/-34.96|-37.3/-42.38</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S10" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-325.87/-4.26|-37.71/-4.29|-37.23/-16.45|-32.54/-17.34|-32.45/-18.35|-33.31/-19.05|-37.2/-18.27|-37.1/-20.25|-326.39/-21.6|-326.34/-19.08|-330.88/-19.88|-331.51/-19.21|-331.49/-18.08|-326.34/-17.19</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S9" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-325.31/30.58|-38.18/29.37|-38.07/19.42|-33.91/20.38|-32.93/19.61|-33.08/18.41|-37.49/17.59|-37.49/14.67|-325.94/14.95|-325.93/18.42|-331.01/19.2|-331.15/20.42|-330.33/21.31|-325.28/20.24</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S11" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-326.2/-22.23|-37.21/-21.7|-37.29/-31.36|-326.46/-32.36</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch3" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-327.18/-47.19|-36.45/-45.83|-36.73/-50.76|-31.96/-52.27|-31.97/-53.22|-32.7/-53.5|-331.25/-54.69|-331.88/-53.93|-331.89/-53.34|-327.53/-52.11</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S8" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-325.42/43.28|-38.07/42.01|-37.64/34.81|-34.11/35.88|-33.21/34.96|-33.39/34.26|-33.58/33.84|-37.94/32.38|-37.74/30.06|-325.79/31.34|-325.74/33.59|-330.37/35.02|-330.69/35.36|-330.7/36.13|-329.96/37.21|-325.45/35.86</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S7" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-325.16/52.57|-38.44/51.29|-38.56/45.91|-34.63/47.4|-33.79/46.46|-33.84/45.9|-38.15/44.17|-38.09/42.17|-325.46/43.64|-325.45/45.29|-330.31/46.85|-330.43/47.54|-329.75/48.49|-325.43/47.23</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S1" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-292.98/31.68|-319.07/50.05|-319.52/49.65|-320.67/49.95|-324.62/47.66|-324.59/46.97|-324.1/46.42|-324.15/41.97|-319.77/44.78|-315.01/42.62|-314.91/41.84|-316.71/41.43|-319.02/42.19|-320.6/41.26|-293.78/24.48|-293.64/25.82|-294.84/26.82|-294.76/27.37|-293.92/27.58|-293.21/27</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S2" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-293.27/23.83|-320.95/40.78|-324.97/38.36|-325.14/35.68|-323.86/34.96|-324.09/34.03|-325.59/33.52|-325.53/31.36|-325.22/30.67|-321.05/32.59|-319.69/33.47|-315.12/31.58|-315.37/30.61|-316.69/30.15|-319.13/31.01|-319.13/30.04|-320.86/29.28|-319.36/28.65|-293.72/16.21|-293.72/17.71|-294.05/17.71|-295.07/18.34|-295.05/19.14|-294.17/19.36|-293.93/19.25|-293.36/19.44</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S3" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-293.88/8.92|-294/7.18|-321.29/13.61|-321.21/13.93|-319.77/14.24|-319.58/14.48|-319.58/16.48|-316.88/15.86|-316.65/16.06|-315.57/16.22|-315.41/16.91|-315.54/17.34|-319.53/18.38|-323.47/17.37|-324.23/17.19|-324.28/17.57|-324.35/17.96|-324.93/18.17|-324.83/18.68|-324.39/18.94|-324.41/19.82|-324.7/19.84|-324.82/20.22|-325.25/20.31|-324.75/27.25|-321.17/28.82|-319.99/28.62|-293.34/15.6|-293.57/10.67|-293.66/10.29|-293.68/10.02|-294.34/10.18|-295.27/10.01|-295.19/9.37</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch6" url="" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-38.95/21.95|-41.95/23.19|-42.89/22.88|-43.5/23.26|-67.3/12.84|-67.32/7.49|-67.01/7.41|-67.03/6.83|-66.62/6.91|-65.92/6.9|-65.84/6.2|-66.85/6.02|-66.82/4.24|-41.82/7.77|-43.25/8.07|-43.4/8.53|-43.32/10.48|-42.25/10.81|-43.68/10.87|-46.42/10.29|-47.14/10.33|-47.21/11.59|-43.32/12.42|-42.67/12.14|-41.92/11.98|-37.56/11.25|-37.76/14.45|-39.32/14.81|-39.35/16.9|-39.26/17.22|-38.93/17.39|-38.97/18.01|-39.24/18.07|-39.25/18.9|-38.84/18.86</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch7" url="" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-43.17/-8.75|-66.76/-4.72|-66.89/-3.31|-65.91/-3.33|-65.81/-2.64|-66.86/-2.34|-67.02/3.57|-43.44/6.58|-42.59/6.61|-42.7/7.07|-41.66/7.17|-37.31/6.77|-37.27/0.53|-37.14/-1.25|-38.21/-2.73|-38.16/-3.32|-37.9/-3.73|-35.42/-3.71|-35.43/-4.04|-37.7/-4.17|-37.73/-4.86|-42.08/-5.07|-42.45/-4.73|-43.17/-4.64|-46.93/-4.24|-46.94/-5.74|-42.87/-6.31|-43/-9.38</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch5" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-42.28/36.12|-39.54/34.68|-39.39/26.26|-43.48/27.8|-47.5/26.28|-47.84/25.19|-46.3/24.81|-43.71/25.71|-43.75/24.09|-42.74/23.75|-67.17/13.1|-67.5/14.27|-66.07/15.04|-65.98/15.91|-67.43/15.98|-67.69/20.97|-44.11/35.65|-44.08/36.1|-43.78/36.12|-43.25/35.86</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S12" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-38.79/47.13|-42.54/48.82|-43.56/48.43|-44.1/48.79|-67.97/30.92|-67.81/24.35|-67.4/24.13|-66.25/24.37|-66.19/23.83|-67.32/22.79|-67.32/21.52|-44.15/35.66|-44.08/36.08|-43.82/36.13|-43.45/35.97|-42.44/36.36|-43.43/36.9|-43.42/38.14|-46.35/36.73|-47.62/37.13|-47.65/38.03|-43.83/39.96|-38.93/37.66|-38.8/44.36|-39.56/44.72|-39.87/44.77|-39.9/45.33|-39.57/45.47|-38.78/45.94</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch8" url="" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-38.2/-8.89|-41.41/-9.77|-66.34/-5.06|-66.97/-5.21|-66.9/-10.41|-66.61/-10.75|-66.61/-11.29|-65.53/-11.81|-65.42/-12.44|-66.16/-12.68|-66.62/-12.4|-66.62/-13.51|-43.09/-23.64|-43.01/-22.97|-41.97/-22.09|-42.75/-22.2|-46.58/-20.91|-46.59/-19.84|-45.44/-19.71|-41.54/-20.94|-38.83/-20.27|-38.85/-18.66|-38.29/-18.25|-38.83/-18.09|-38.78/-16.63|-37.9/-16.23</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch9" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-41.2/-34.02|-45.38/-32.28|-46.35/-32.6|-46.34/-33.47|-42.69/-35.22|-42.43/-35.16|-42.12/-35.17|-41.75/-34.93|-41.19/-34.83|-42.2/-35.82|-42.52/-35.98|-66.43/-21.43|-66.43/-20.91|-66.06/-21.25|-65.22/-21.07|-65.18/-20.52|-66.33/-19.74|-66.63/-19.19|-66.74/-14.34|-43.1/-25.01|-42.83/-25.1|-42.65/-24.99|-42.37/-25.01|-40.85/-24.28|-40.9/-24.79|-37.55/-23.03|-37.45/-31.19|-38.44/-31.93|-38.44/-32.68</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch10" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-38.65/-36.31|-40.73/-37.5|-40.79/-36.45|-66.14/-21.92|-66.63/-22.1|-66.62/-26.67|-66.4/-26.72|-66.38/-27.03|-65.12/-28.19|-65.14/-28.6|-65.88/-28.83|-66.17/-28.63|-66.19/-28.86|-46.55/-43.04|-46.29/-42.62|-45.18/-42.24|-41.23/-44.02|-40.87/-43.98|-38.27/-41.92</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S4" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-293.57/6.7|-293.67/1.43|-294.1/1.2|-294.2/0.58|-295.28/0.44|-295.29/-0.27|-294.03/-0.32|-294.1/-1.87|-319.85/-3.51|-319.76/-1.06|-321.08/-0.54|-315.67/-0.41|-315.65/0.87|-320.08/1.04|-325.43/1.1|-325.54/12.2|-321.28/13.22|-320.39/13.05|-319.84/13.27|-319.28/13.11|-319.12/12.47</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S5" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-293.9/-2.74|-293.77/-2.9|-293.89/-8|-294.22/-8.21|-294.22/-8.79|-295.49/-9.28|-295.49/-9.96|-294.75/-10.07|-294.26/-9.93|-294.35/-11.08|-320.34/-20.1|-320.24/-18.61|-322.92/-16.95|-322.87/-16.79|-320.71/-18.05|-316.22/-17.04|-316/-16.51|-316.12/-15.71|-317.24/-15.53|-321.13/-16.4|-321.56/-16.62|-325/-15.08|-324.97/-4|-321.68/-4.37|-320.23/-4.21|-319.75/-4.38|-319.73/-4.94</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_S6" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ SEÑAL" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-294.16/-11.84|-293.94/-12.07|-294.08/-16.89|-294.49/-17.11|-294.4/-17.55|-295.63/-18.39|-295.63/-19.03|-294.77/-19.19|-294.45/-18.94|-294.37/-20.25|-320.49/-34.64|-320.28/-33.12|-320.99/-32.45|-320.69/-32.37|-320.5/-32.49|-316.27/-30.88|-316.33/-29.85|-317.43/-29.47|-321.7/-31.03|-322.02/-31.1|-324.68/-29.47|-324.47/-21.11|-321.97/-21.93</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch1" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-294.24/-20.57|-320.92/-35.16|-324.76/-33.39|-325.11/-40.71|-321.98/-42.37|-317.82/-40.57|-316.57/-41.07|-316.74/-41.86|-320.95/-43.63|-320.68/-43.88|-295.12/-27.9|-295.15/-27.43|-295.83/-27.21|-295.78/-26.65|-294.4/-25.53</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch2" url="" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-294.28/-28.02|-320.31/-44.85|-320.65/-44.96|-320.75/-45.29|-321.03/-45.3|-322.34/-44.62|-322.94/-44.82|-323.16/-44.8|-324.65/-43.59|-325.1/-48.15|-321.69/-50.38|-317.78/-48.72|-316.51/-49.09|-316.36/-49.61|-295.23/-34.57|-296.02/-34.35|-295.86/-33.79|-294.27/-32.26</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Grelé_Arch4" url="" bordercolor="0xffffff" backgroundalpha="0.25098" borderalpha="0" title="GRUPO RELÉ ARCHIVO" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-327.52/-54.69|-328.32/-54.08|-35.35/-52.73|-36.17/-53.31|-36.46/-56.72|-31.5/-58.18|-32.26/-59.07|-331.71/-60.11|-332.13/-59.33|-327.4/-58.01</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="39.090" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-3.960" tiltsize="10.000" mode="2">
+        <source url="media/AUD9.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node29" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.40000000000000002" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="72.279" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="Grupo de Relés" author="" comment="" customnodeid="" source="" tags="E12_MIS801_Grel1" description="Los grupos de relés estructuran el corazón del enclavamiento, en donde cada grupo de estos elementos electromecánicos se encarga de realizar las operaciones lógicas para el monitoreo y control de los elementos de campo.&#xa;&#xa;Enfrente tenemos un grupo de relés que operan los aspectos de una señal. Identificado por el panel de luz led en la parte superior que indica el estado actual." copyright="" datetime="28/04/2023 10:59 a. m." nodeid="node29"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_Grelé_Cristal" url="{node28}" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Ver funcionamiento Relés" backgroundcolor="0xffffff" description="" target="">
+        <polystring>-321.74/2.95|-36.68/3.02|-36.59/-7.79|-321.82/-7.74</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="22.220" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-357.630" tiltsize="10.000" mode="2">
+        <source url="media/AUD10.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1488" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1488" overlap="1">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="75" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="41.004948" longitude="7.299324" info="" heading="0" altitude="0.00" title="CAMBIO DE ASPECTO SEÑAL" author="" comment="" customnodeid="" source="" tags="E13_MIS801_Grel2" description="Cada uno de estos elementos controla el aspecto de la señal mediante operaciones lógicas, las cuales son realizadas mediante la energización o desenergización de estos mediante su lógica cableada.&#xa;" copyright="" datetime="2023:04:28 11:02:09" nodeid="node28"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_Relés1" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Relés" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-340.64/2.94|-340.85/3.24|-342.07/3.39|-343.18/3.29|-343.43/2.9|-343.76/2.93|-343.84/3.35|-346.44/3.57|-346.83/3.03|-346.84/1.62|-346.82/0.3|-346.91/-0.06|-349.88/-0.06|-349.95/-10.5|-349.04/-10.68|-347.65/-10.97|-343.52/-11.26|-341.57/-11.14|-341.32/-11.17|-340.65/-10.85|-339.82/-10.56|-338.65/-10.18|-338/-10.27|-337.42/-10|-335.36/-9.27|-335.06/-9.3|-327.46/-7.3|-327.71/-5.71|-327.95/-5.51|-328.04/-4.73|-327.87/-4.64|-327.98/-3.63|-328.11/-3.31|-328.32/-3.33|-328.95/-3.38|-329.85/-3.36|-330.63/-2.94|-330.58/-2.24|-327.65/-1.89|-327.81/0.63|-327.73/1.02|-327.78/1.62|-327.93/1.96|-328.38/2.02|-328.74/1.98|-329.58/1.87|-329.86/2.18|-330.3/2.26|-330.64/2.21|-330.92/2.03|-331.65/2.03|-332.02/2.24|-332.59/2.27|-333.08/2.14|-333.86/2.03|-334.18/2.39|-334.76/2.51|-335.36/2.49|-336.09/2.31|-336.73/2.21|-337.02/2.66|-337.62/2.73|-338.47/2.64|-339.14/2.49|-339.66/2.21|-340.21/2.03|-340.42/2.6</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Relés2" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Relés" backgroundcolor="0xffffff" description="" target="_blank">
+        <polystring>-351.67/2.95|-351.18/2.83|-350.88/2.4|-350.91/1.73|-350.73/1.06|-350.12/0.3|-350.1/-3.71|-352.31/-3.85|-352.17/-6.18|-351.72/-6.18|-351.49/-6.25|-351.29/-6.75|-351.14/-8.41|-351.99/-8.5|-352.07/-8.87|-351.8/-8.98|-350.37/-8.89|-350.11/-12.56|-354.45/-13.26|-354.55/-13.58|-355.37/-13.67|-1.07/-14.76|-7.19/-12.57|-7.05/-8.75|-4.01/-9.78|-4/-8.55|-6.64/-7.85|-6.89/-7.36|-6.99/-6.66|-6.96/-6.05|-6.84/-5.44|-6.32/-5.2|-3.95/-5.36|-3.94/-4.81|-35.57/-5.95|-35.7/0.7|-35.21/0.7|-35.24/4.75|-28.83/4.78|-28.83/0.44|-27.22/0.4|-27.22/4.82|-20.53/4.85|-20.57/4.29|-20.49/2.06|-20.17/1.82|-20.06/1.25|-20.27/0.86|-19.07/0.86|-19.07/-0.1|-18.4/-0.17|-18.43/4.76|-12.72/4.67|-12.72/4.13|-11.89/4.03|-11.28/3.84|-11.25/4.57|-6.17/4.51|-6.11/3.92|-5.57/3.88|-5.09/3.82|-4.5/3.65|-4.06/3.27|-3.99/4.47|-359.33/4.31|-359.33/3.56|-359.31/3.21|-358.32/3.21|-358.22/4.13|-354.43/4|-354.38/3.26|-354.38/2.8|-353.46/3.05|-352.4/3.12</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="11.430" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-19.830" tiltsize="10.000" mode="2">
+        <source url="media/AUD11.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1488" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1488" overlap="1">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="75" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="41.004948" longitude="7.299324" info="" heading="0" altitude="0.00" title="CAMBIO DE ASPECTO SEÑAL" author="" comment="" customnodeid="" source="" tags="E14_MIS801_GrelAmarillo" description="Los relés en color verde corresponden a los energizados que cambiaron a una posición 'Hacia arriba'. Mientras que aquellos relés que, debido a las operaciones, se desenergizaron, se resaltan en color rojo.&#xa;&#xa;&#xa;&#xa;&#xa;" copyright="" datetime="2023:04:28 11:03:08" nodeid="node30"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_Amarillo_Relé_Down2" url="" bordercolor="0xff4245" backgroundalpha="0.156863" borderalpha="0" title="Relé Desenergizado" backgroundcolor="0xf71505" description="" target="">
+        <polystring>-10.94/3.23|-11.15/3.47|-11.54/3.6|-14.43/3.63|-14.77/3.51|-15.07/3.18|-15.07/2.9|-15.07/2.51|-14.98/1.29|-14.86/1.05|-14.8/0.74|-14.37/0.68|-14.13/0.71|-13.73/0.59|-13.55/0.23|-13.58/-0.29|-16.9/-0.38|-17.6/-1.14|-18.03/-1.81|-18.12/-4.7|-18.3/-4.85|-18.46/-4.94|-18.46/-5.09|-18.06/-5.12|-17.7/-5.12|-17.3/-5.13|-17.03/-5.13|-16.78/-5.13|-16.6/-5.01|-16.26/-5.22|-16.08/-4.83|-15.32/-4.86|-15.14/-5.07|-14.98/-5.1|-14.83/-5.07|-14.86/-4.8|-14.22/-4.77|-14.43/-4.98|-14.13/-5.16|-13.03/-5.07|-12.42/-4.85|-12.09/-4.97|-11.69/-4.82|-10.99/-5.06|-9.66/-4.93|-9.66/-4.63|-9.02/-4.68|-8.9/-4.29|-9.6/-4.23|-9.48/-3.69|-9.51/-2.81|-9.6/-2.08|-9.48/-1.26|-9.72/-0.53|-10.33/-0.38|-10.99/-0.38|-11.88/-0.47|-11.91/0.59|-11.21/0.65|-10.78/0.83|-10.84/1.41|-10.84/2.29</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Amarillo_Relé_Up" url="" bordercolor="0x6dba08" backgroundalpha="0.156863" borderalpha="0" title="Relé Energizado" backgroundcolor="0x6dba08" description="" target="_blank">
+        <polystring>-345.07/-4.91|-345.52/-5|-345.92/-5.03|-346.16/-5.18|-346.47/-5.54|-346.45/-6.12|-346.52/-7.24|-346.53/-7.66|-346.86/-7.75|-347.74/-7.55|-348.13/-7.48|-349.06/-7.41|-349.51/-7.34|-349.72/-7.48|-349.85/-7.9|-349.92/-8.38|-349.93/-8.77|-349.93/-9.1|-349.91/-9.58|-349.96/-10.39|-347.19/-11.15|-346.7/-11.16|-345.9/-10.91|-344.02/-10.97|-343.62/-11.28|-343.16/-11.31|-342.42/-11.08|-341.67/-10.9|-340.19/-10.63|-339.23/-10.39|-338.46/-10.2|-337.87/-10.08|-337.1/-9.86|-336.28/-9.59|-336.6/-6.6|-337.06/-6.51|-337.27/-6.48|-337.43/-6.24|-337.34/-6.08|-337.44/-5.69|-337.89/-5.63|-337.68/-5.39|-337.68/-5.08|-337.86/-4.96|-338.23/-4.9|-338.53/-4.9|-338.66/-4.84|-338.54/-4.75|-338.54/-4.54|-338.75/-4.54|-340.8/-4.42|-342.42/-4.66|-340.83/-5|-341.65/-5.15|-341.68/-5.02|-343.03/-4.84|-344/-4.77</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Amarillo_Relé_Down1" url="" bordercolor="0x0000ff" backgroundalpha="0.156863" borderalpha="0" title="Relé Desenergizado" backgroundcolor="0xf71505" description="" target="_blank">
+        <polystring>-335.25/-4.55|-335.37/-4.3|-336.35/-4.06|-336.9/-4|-337.82/-4|-338.43/-4.31|-338.43/-4.82|-337.66/-4.95|-337.69/-5.59|-337.39/-5.74|-337.2/-6.16|-337.39/-6.2|-337.3/-6.35|-337.05/-6.47|-336.44/-6.71|-336.09/-9.53|-335.45/-9.32|-334.87/-9.4|-334.35/-9.13|-333.55/-8.88|-333.78/-6.06|-334.36/-6.19|-334.42/-6.03|-334.08/-5.94|-334.18/-5.45|-334.3/-5.46|-334.3/-5.06|-334.48/-4.79|-334.7/-4.64|-334.91/-4.64</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="15.750" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-12.680" tiltsize="10.000" mode="2">
+        <source url="media/AUD12.mp3"/>
+      </sound>
+      <sound id="Element02" tilt="-5.250" field="90.000" ambientlevel="0.000" loop="1" level="1.000" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-7.760" tiltsize="10.000" mode="3">
+        <source url="media/Cambio Rel�.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node31" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1488" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1488" overlap="1">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="75" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="41.004948" longitude="7.299324" info="" heading="0" altitude="0.00" title="CAMBIO ASPECTO SEÑAL" author="" comment="" customnodeid="" source="" tags="E15_MIS801_GrelVerde" description="De manera análoga, se identifican en pantalla los relés energizados y desenergizados para el cambio del aspecto de la señal, en este caso, para la configuración de un aspecto de color verde." copyright="" datetime="2023:04:28 11:03:31" nodeid="node31"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_Verde_Relé_Up2" url="" bordercolor="0x0000ff" backgroundalpha="0.235294" borderalpha="0" title="Relé Energizado" backgroundcolor="0x6dba08" description="" target="_blank">
+        <polystring>-334.52/-4.23|-335.45/-4.27|-335.63/-4.06|-337.59/-3.91|-337.91/-3.27|-339.85/-3.48|-339.95/-3.96|-339.89/-4.51|-338.88/-4.46|-338.61/-4.76|-337.87/-4.73|-337.6/-4.98|-337.45/-5.53|-337.36/-6.14|-337.05/-6.54|-336.65/-6.38|-336.37/-6.41|-336.08/-9.53|-332.54/-8.64|-332.89/-5.91|-334.48/-6.12|-334.42/-5.76|-334.06/-5.61|-334.27/-4.63</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Verde_Relé_Down" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Relé Desenergizado" backgroundcolor="0xaa0000" description="" target="_blank">
+        <polystring>-20.45/3.26|-20.66/3.53|-21/3.86|-21.12/4.74|-21.39/4.94|-27.08/4.86|-27.26/4.53|-27.23/0.14|-27.02/-0.07|-26.93/-0.77|-27.5/-1.04|-27.59/-5.11|-27.17/-5.21|-27.14/-5.48|-18.57/-5.13|-18.59/-0.86|-19.13/-0.62|-19.2/-0.01|-19.14/0.38|-19.81/0.38|-20.75/0.38|-20.78/0.66|-20.39/0.87|-20.2/1.17|-20.14/1.63|-20.33/1.99</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Verde_Relé_Up1" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Relé Energizado" backgroundcolor="0x6dba08" description="" target="_blank">
+        <polystring>-359.24/4.33|-3.73/4.45|-4/3.83|-3.9/3.39|-3.76/2.74|-3.66/2.16|-3.69/1.47|-3.62/0.72|-358.79/0.78|-358.79/0.34|-0.8/0.37|-2.35/-0.73|-2.31/-3.55|-1.14/-4.34|-355.03/-4.02|-355.36/0.54|-357.19/0.57|-357.22/1.12|-356.21/1.15|-356.25/2.17|-356.52/2.31|-356.49/2.88|-356.56/3.32|-356.86/3.56|-358.52/3.68|-359.24/3.78</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="16.550" field="90.000" ambientlevel="0.000" loop="1" level="0.800" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-12.410" tiltsize="10.000" mode="2">
+        <source url="media/AUD13.mp3"/>
+      </sound>
+      <sound id="Element02" tilt="-6.130" field="90.000" ambientlevel="0.000" loop="1" level="1.000" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-15.340" tiltsize="10.000" mode="3">
+        <source url="media/Cambio Rel�.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node32" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1488" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1488" overlap="1">
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="75" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="41.004948" longitude="7.299324" info="" heading="0" altitude="0.00" title="CAMBIO ASPECTO SEÑAL" author="" comment="" customnodeid="" source="" tags="E16_MIS801_GrelRojo" description="Finalmente, otros relés del mismo grupo cambian sus posiciones para la generación del aspecto rojo de la señal.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" copyright="" datetime="2023:04:28 11:03:47" nodeid="node32"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_Rojo_Relé_Up" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Relé Energizado" backgroundcolor="0x6dba08" description="" target="_blank">
+        <polystring>-12.55/4.03|-12.61/4.48|-12.76/4.78|-18.37/4.85|-18.37/0.53|-18.28/0.04|-17.67/0.01|-17.67/-0.32|-18.07/-0.38|-18.86/-0.87|-18.92/0.56|-20.81/0.47|-20.54/0.77|-20.17/1.26|-20.05/1.6|-20.17/1.84|-20.35/1.96|-20.44/2.87|-20.48/3.51|-20.81/3.99|-21.08/4.2|-21.14/4.84|-27.23/4.74|-27.23/-0.05|-27.47/-0.71|-27.59/-5.08|-27.18/-5.11|-27.15/-5.53|-8.68/-4.79|-8.89/-3.98|-9.43/-3.95|-9.64/-0.11|-9.67/0.5|-11.97/0.47|-12.09/0.68|-12.09/0.99|-12.09/1.23|-11.43/1.26|-11.09/1.32|-10.91/1.62|-10.85/2.35|-10.94/2.9|-11/3.5|-11.19/3.78|-11.49/3.99|-11.91/4.02</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_Rojo_Relé_Down" url="" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="0" title="Relé Desenergizado" backgroundcolor="0xaa0000" description="" target="_blank">
+        <polystring>-28.92/4.93|-35.11/4.94|-35.01/0.23|-35.79/0.1|-35.75/-5.08|-35.2/-5.15|-35.27/-5.45|-33.32/-5.44|-32.98/-5.2|-30.69/-5.2|-30.66/-5.48|-28.12/-5.39|-28.15/-4.99|-27.78/-4.99|-27.79/0.29|-28.92/0.29</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-10.890" field="90.000" ambientlevel="0.000" loop="1" level="1.000" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-15.260" tiltsize="10.000" mode="3">
+        <source url="media/Cambio Rel�.mp3"/>
+      </sound>
+      <sound id="Element02" tilt="26.020" field="90.000" ambientlevel="0.000" loop="1" level="1.000" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-7.450" tiltsize="10.000" mode="2">
+        <source url="media/AUD14.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node117" hideabout="1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="2992" leveltileurl="tiles/node117/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.5" levelingpitch="0" height="2992" overlap="1">
+      <level preload="0" width="2992" height="2992" predecode="0"/>
+      <level preload="0" width="1496" height="1496" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.66" fov="80" projection="4" pan="-0.63"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270" fov="120" pan="360"/>
+    </view>
+    <userdata latitude="6.328056" longitude="-75.552000" info="" heading="0" altitude="1439.10" title="Vista General 3" author="" comment="" customnodeid="" source="" tags="E17_ENCLAV_ANT_F" description="" copyright="" datetime="28/04/2023 10:52 a. m." nodeid="node117"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="100" height="0">
+      <label border="1" textcolor="0xffffff" enabled="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" width="100" wordwrap="1" backgroundcolor="0x232323" background="1" textalpha="1" borderradius="4" height="0"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="2"/>
+      <polyhotspot id="Poly_MIS801V2" url="" bordercolor="0xffffff" backgroundalpha="0.0392157" borderalpha="0" title="SISTEMA MIS 801" backgroundcolor="0xffffff" description="El Sistema MIS 801 se encuentra ubicado en el enclavamiento y es el corazón del sistema de señalización.&#xa;&#xa;Este dispositivo recibe y procesa múltiples señales provenientes de sensores estratégicamente ubicados a lo largo de la vía, procesándolas de manera lógica para preservar la seguridad de la operación.&#xa;&#xa;El enclavamiento se comunica paralelamente con otros sistemas como el ATP, FTGS, entre otros, con lo cual, calcula, coordina y opera los elementos de campo de la vía." target="_blank">
+        <polystring>-337.45/21.32|-40.86/19.03|-40.59/-15.61|-23.89/-18.41|-23.93/-26.47|-359.77/-28.36|-359.78/-23.33|-338.25/-21.53</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly_FTGSV2" url="" bordercolor="0xffffff" backgroundalpha="0.0392157" borderalpha="0" title="SISTEMA FTGS" backgroundcolor="0xffffff" description="El Sistema FTGS es el dispositivo que se encarga de verificar la ocupación de la vías por un tren, preservando la integridad del servicio, controlando y manteniendo las distancias seguras entre los vehículos." target="_blank">
+        <polystring>-309.57/12.51|-318.82/15.21|-321/14.5|-321.71/15.93|-335.14/18.46|-337.09/16.49|-337.6/-17.49|-334.98/-18.98|-321.85/-16.44|-321.84/-18.94|-319.05/-19.94|-310.61/-17.56</polystring>
+      </polyhotspot>
+      <polyhotspot id="Zone_Info" url="" description="Tablero de Monitoreo asociado a los componentes que controla este enclavamiento. Se caracteriza por emplear un sistema análogo para brindar seguimiento a las ocupaciones de vía, aspectos de señales y estados de cambiavías." title="Tablero de Monitoreo" target="_blank">
+        <polystring>-164.96/12.93|-164.95/-1.04|-209.75/-1.02|-209.97/11.64</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="44.180" field="90.000" ambientlevel="0.000" loop="1" level="1.000" nodechangekeep="0" startmutedmobile="0" pansize="10.000" pan="-348.990" tiltsize="10.000" mode="2">
+        <source url="media/AUD15.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" zoomoutpause="1" zoomin="0" enabled="1" softedge="0" zoomfov="20" type="crossdissolve" delay="none" zoomout="0" blendcolor="0x000000" zoomspeed="2" blendtime="1.5" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" hideabout="1" rubberband="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" description="" title="" author="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
